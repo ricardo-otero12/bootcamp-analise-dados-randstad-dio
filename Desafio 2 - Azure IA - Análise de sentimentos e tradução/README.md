@@ -43,9 +43,17 @@ Não é exagero dizer que essa análise é fundamental para ditar, por exemplo, 
 
 Definitivamente, ambas as funcionalidades têm crescente utilidade nos dias atuais e assumem cada vez mais importância nos contextos diários e corporativos.
 
+## 🚀 Como executar
+1. Clone este repositório;
+2. Acesse o [Azure Speech Studio](https://speech.microsoft.com/portal) e faça upload do áudio de teste;  
+3. Acesse o [Azure Language Studio](https://language.cognitive.azure.com/) e rode a análise de sentimentos;
+4. Compare os resultados obtidos.  
+
 ## 🛠 Ferramentas utilizadas
 
-- Microsoft Azure - Azure AI Speech e Language Studio.
+- **Microsoft Azure AI Speech** → Transcrição automática de áudio;  
+- **Microsoft Azure Language Studio** → Análise de sentimentos e processamento de linguagem natural (NLP);
+- **Markdown / GitHub** → Documentação e versionamento.  
 
 ## 💻 Autor / Contato
 

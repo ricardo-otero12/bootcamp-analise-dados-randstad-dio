@@ -17,8 +17,7 @@ Desta forma, o desafio foi devidamente cumprido e entregue na plataforma.
 
 ## 🛠 Ferramentas utilizadas
 
-- Git
-- GitHub
+- **Markdown / GitHub** → Documentação e versionamento.  
 
 ## 💻 Autor / Contato
 
