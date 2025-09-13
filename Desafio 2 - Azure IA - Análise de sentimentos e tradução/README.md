@@ -6,7 +6,7 @@
 
 De início, esse foi o desafio proposto:
 
-[Desafio](imagens/1%20-%20Instruções%20do%20desafio.png)
+[Desafio](https://github.com/ricardo-otero12/bootcamp-analise-dados-randstad-dio/blob/main/Desafio%202%20-%20Azure%20IA%20-%20An%C3%A1lise%20de%20sentimentos%20e%20tradu%C3%A7%C3%A3o/imagens/1%20-%20Instru%C3%A7%C3%B5es%20do%20desafio.png)
 
 Assim sendo, temos dois principais desafios:
 
@@ -15,7 +15,7 @@ Assim sendo, temos dois principais desafios:
 
 Desta forma, a partir dessas instruções, visitei inicialmente a [documentação](https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/09-speech.html) da Microsoft Azure Speech AI Foundry portal baixar o arquivo de teste e subi-lo ao website, como se vê neste [link](https://ai.azure.com/explore/models/aiservices/Azure-AI-Speech/version/1/registry/azureml-cogsvc/tryout?NewUX=true&Trigger=AutoRedirect_NoSpeechResources#realtime):
 
-[Transcrição](imagens/2%20-%20Azure%20AI%20Foundry%20-%20transcrição.png)
+[Transcrição](https://github.com/ricardo-otero12/bootcamp-analise-dados-randstad-dio/blob/main/Desafio%202%20-%20Azure%20IA%20-%20An%C3%A1lise%20de%20sentimentos%20e%20tradu%C3%A7%C3%A3o/imagens/2%20-%20Azure%20AI%20Foundry%20-%20transcri%C3%A7%C3%A3o.png)
 
 Como se vê, o Microsoft Azure conseguiu transcrever o texto contido no áudio "WhatIACanDo.m4a" - que resultou no seguinte fragmento de texto (traduzido): "A IA nos permite construir softwares incríveis que podem melhorar a saúde, permitir que as pessoas superem desvantagens físicas, potencializar infraestruturas inteligentes, criar experiências de entretenimento incríveis e até salvar o planeta."
 
@@ -25,19 +25,19 @@ Ou seja: neste caso, podemos verificar que há evidente influência da Inteligê
 
 Prosseguindo, visitei a [documentação](https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/06-text-analysis.html) do Microsoft Azure Language Studio para obter os textos de exemplo e assim, conseguirmos analisar como ocorre a [análise de sentimentos de linguagem](https://language.cognitive.azure.com/tryout/sentiment):
 
-[Prompt](imagens/3%20-%20Prompt%20-%20curto.png)
+[Prompt](https://github.com/ricardo-otero12/bootcamp-analise-dados-randstad-dio/blob/main/Desafio%202%20-%20Azure%20IA%20-%20An%C3%A1lise%20de%20sentimentos%20e%20tradu%C3%A7%C3%A3o/imagens/3%20-%20Prompt%20-%20curto.png)
 
 Neste prompt, foi considerada a seguinte frase de exemplo: "[...] I bought a size S and it fit perfectly. I found the zipper a little bit difficult to get up & down due to the side rushing. The color and material are beautiful in person. Amazingly comfortable! [...]"
 
 E esse foi o resultado:
 
-[Resultado](imagens/4%20-%20Resultado%20-%20curto.png)
+[Resultado](https://github.com/ricardo-otero12/bootcamp-analise-dados-randstad-dio/blob/main/Desafio%202%20-%20Azure%20IA%20-%20An%C3%A1lise%20de%20sentimentos%20e%20tradu%C3%A7%C3%A3o/imagens/4%20-%20Resultado%20-%20curto.png)
 
 O resultado de análise de sentimentos foi, portanto: 74% da linguagem foi positiva, 1% neutra e 25% negativa. Neste exemplo prático, temos a análise da compra de uma camiseta - em que o consumidor adquiriu uma camiseta no tamanho pequeno, mas serviu perfeitamente; o ziper era um pouco difícil de fechar, mas a cor e o tecido eram incríveis pessoalmente e ainda por cima, a camiseta era confortável.
 
 O próprio sistema analisa o contexto geral (como visto acima), mas também verifica frase por frase - como exemplo:
 
-[Frase 2](imagens/5%20-%20frase%20dois%20-%20curto.png)
+[Frase 2](https://github.com/ricardo-otero12/bootcamp-analise-dados-randstad-dio/blob/main/Desafio%202%20-%20Azure%20IA%20-%20An%C3%A1lise%20de%20sentimentos%20e%20tradu%C3%A7%C3%A3o/imagens/5%20-%20frase%20dois%20-%20curto.png)
 
 Não é exagero dizer que essa análise é fundamental para ditar, por exemplo, o mercado consumidor: segundo dito pelo [Google Trends](https://trends.google.com.br/trends/), "[...] A pesquisa "Decisão Local 2025" revela que 96% dos consumidores no Brasil leem avaliações de outros clientes antes de escolher uma loja física. Isso inclui restaurantes, onde as avaliações no Google influenciam diretamente na opinião dos consumidores.[...]"
 
@@ -52,4 +52,3 @@ Definitivamente, ambas as funcionalidades têm crescente utilidade nos dias atua
 [@ricardo-otero12](https://github.com/ricardo-otero12)
 
 Procure-me no LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ricardogarcia56/)
-
