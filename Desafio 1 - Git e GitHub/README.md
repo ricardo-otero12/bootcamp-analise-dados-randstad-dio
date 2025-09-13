@@ -6,7 +6,7 @@
 
 Em linhas gerais, o projeto teve como principal objetivo a contribuição em um projeto da própria DIO, trazendo sugestão de melhoria em uma funcionalidade existente no [Repositório Oficial](https://github.com/digitalinnovationone/dio-lab-open-source).
 
-[Instruções](https://github.com/ricardo-otero12/bootcamp-analise-dados-randstad-dio/blob/main/Desafio%201%20-%20Git%20e%20GitHub/imagens/Instru%C3%A7%C3%B5es_do_desafio.png)
+![Instruções](imagens/Instruções_do_desafio.png)
 
 Na prática, existiram duas grandes tarefas a serem realizadas nesse desafio:
 
