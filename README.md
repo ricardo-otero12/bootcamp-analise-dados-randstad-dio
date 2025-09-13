@@ -3,7 +3,6 @@
 
 📊 Repositório com os desafios e projetos desenvolvidos ao longo do Bootcamp.
 
-
 ## 🛠 Projetos incluídos 
 - Desafio 1: Contribuição em um projeto Open Source da DIO, consistente na criação de arquivo [README](https://github.com/digitalinnovationone/dio-lab-open-source/blob/main/community/ricardo-otero12.md) na pasta "Community" e de [sugestão](https://github.com/digitalinnovationone/dio-lab-open-source/issues/69416) para a padronização dos commits no Guia de Contribuição do repositório;
 
@@ -12,15 +11,6 @@
 
 ## 🛠 Ferramentas utilizadas
 - Microsoft Azure - Serviço de IA
-- Git
-- GitHub
-
-## 💻 Contato
-Procure-me no LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ricardogarcia56/)
- 
-
-
-## 🛠 Ferramentas utilizadas
 - Git
 - GitHub
 
