@@ -25,7 +25,7 @@ Ou seja: neste caso, podemos verificar que há evidente influência da Inteligê
 
 Prosseguindo, visitei a [documentação](https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/06-text-analysis.html) do Microsoft Azure Language Studio para obter os textos de exemplo e assim, conseguirmos analisar como ocorre a [análise de sentimentos de linguagem](https://language.cognitive.azure.com/tryout/sentiment):
 
-[Prompt](imagens/3%20-%20Prompt%20-%20curto.png)
+![Prompt](imagens/3%20-%20Prompt%20-%20curto.png)
 
 Neste prompt, foi considerada a seguinte frase de exemplo: "[...] I bought a size S and it fit perfectly. I found the zipper a little bit difficult to get up & down due to the side rushing. The color and material are beautiful in person. Amazingly comfortable! [...]"
 
