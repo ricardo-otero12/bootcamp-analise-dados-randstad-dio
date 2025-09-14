@@ -15,6 +15,25 @@ Na prática, existiram duas grandes tarefas a serem realizadas nesse desafio:
 
 Desta forma, o desafio foi devidamente cumprido e entregue na plataforma.
 
+📊 Resultados e Insights
+
+Contribuição Open Source:
+A experiência mostrou, na prática, como funciona o ciclo de colaboração em projetos de código aberto, reforçando a importância da comunicação clara, padronização e organização para garantir a escalabilidade de um repositório.
+
+Boas práticas de documentação:
+A criação do README.md permitiu exercitar a escrita técnica e objetiva, facilitando a onboarding de novos colaboradores e tornando o projeto mais acessível para a comunidade.
+
+Padronização de commits:
+A sugestão para o Guia de Contribuição reforçou a relevância de práticas consistentes de versionamento, que tornam o histórico de alterações mais legível, auditável e colaborativo.
+
+Principais aprendizados:
+
+A colaboração em projetos comunitários exige clareza e consistência nas contribuições.
+
+Documentação de qualidade é tão importante quanto o código para o sucesso de um projeto.
+
+O GitHub é uma ferramenta não só de versionamento, mas também de networking técnico e crescimento profissional.
+
 ## 🛠 Ferramentas utilizadas
 
 - **Markdown / GitHub** → Documentação e versionamento.  
