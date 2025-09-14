@@ -43,6 +43,22 @@ Não é exagero dizer que essa análise é fundamental para ditar, por exemplo, 
 
 Definitivamente, ambas as funcionalidades têm crescente utilidade nos dias atuais e assumem cada vez mais importância nos contextos diários e corporativos.
 
+📊 Resultados e Insights
+
+Transcrição de Áudio (Azure Speech Studio):
+O serviço conseguiu converter com precisão o áudio fornecido em texto legível, demonstrando como soluções de reconhecimento de fala podem ser aplicadas em legendas automáticas, acessibilidade para pessoas com deficiência auditiva, reuniões corporativas e criação de conteúdos multimídia.
+
+Análise de Sentimentos (Azure Language Studio):
+A análise de opiniões em textos evidenciou a capacidade do modelo em identificar emoções positivas, neutras e negativas, não apenas em nível global, mas também frase por frase. Isso mostra o valor da ferramenta para empresas que monitoram feedbacks de clientes, pesquisas de satisfação, SAC digital e até estratégias de marketing.
+
+Principais Aprendizados:
+
+A Inteligência Artificial aplicada à linguagem e voz vai além da automação, servindo como apoio estratégico para tomadas de decisão.
+
+A precisão dos resultados reforça como ferramentas low-code/no-code do Azure permitem que mesmo iniciantes em IA consigam implementar soluções reais e funcionais.
+
+Este projeto demonstrou, na prática, como dados não estruturados (áudio e texto) podem ser transformados em insights relevantes para negócios e experiências do usuário.
+
 ## 🚀 Como executar
 1. Clone este repositório;
 2. Acesse o [Azure Speech Studio](https://speech.microsoft.com/portal) e faça upload do áudio de teste;  
